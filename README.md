@@ -26,7 +26,7 @@ Note: Both these functions deal with integer as a String representation and henc
 
 The implementation of the GCD finding algorithm developed by Euclid. The source was taken from the wikipedia page:
 
-Euclidean Algorithm wiki(https://en.wikipedia.org/wiki/Euclidean_algorithm)
+[Euclidean Algorithm wiki](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
 
     
