@@ -21,4 +21,12 @@ This file contains a simple implementation of the base conversion system. There 
 `convertToBaseTen`
 
 Note: Both these functions deal with integer as a String representation and hence I have type casted it inside the code. This was made with the assumption that Strings are efficient in storing huge numbers and thus avoid Arithmetic Errors in the code. 
+
+### Euclidean GCD Algorithm:
+
+The implementation of the GCD finding algorithm developed by Euclid. The source was taken from the wikipedia page:
+
+Euclidean Algorithm wiki(https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
+
     
