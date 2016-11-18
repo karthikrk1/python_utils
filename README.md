@@ -1,5 +1,5 @@
 # python_utils
-This repository contains some small utility functions that can be used in a variety of different algorithms. 
+This repository contains some small utility functions that can be used in a variety of different algorithms. This repository is coded with the aim of being a utility repo for most of the programming challenge questions. The repository as it grows is expected to become more versatile and contain small snippets that serve a lot of purpose.
 
 ## Note:
 
