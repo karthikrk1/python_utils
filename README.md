@@ -10,7 +10,7 @@ The repository is coded in Python 3.5 and hence some 3.5+ stuff may not work wel
 This covers a comprehensive list of all the utilities stored in this git repo. This list will be constantly updated with the name of the utility and a small two or three line description of the uses of those functions
 
 ### The Sieve of Eratosthenes:
- 
+
 This utility function is used to build the Sieve of Eratosthenes and initialize a prime number array upto size 10^6. The sieve algorithm runs in time O(n^1/2).
 
 ### Base Conversion:
@@ -20,7 +20,7 @@ This file contains a simple implementation of the base conversion system. There 
 `convertFromBaseTen`
 `convertToBaseTen`
 
-Note: Both these functions deal with integer as a String representation and hence I have type casted it inside the code. This was made with the assumption that Strings are efficient in storing huge numbers and thus avoid Arithmetic Errors in the code. 
+Note: Both these functions deal with integer as a String representation and hence I have type casted it inside the code. This was made with the assumption that Strings are efficient in storing huge numbers and thus avoid Arithmetic Errors in the code.
 
 ### Euclidean GCD Algorithm:
 
@@ -28,5 +28,6 @@ The implementation of the GCD finding algorithm developed by Euclid. The source 
 
 [Euclidean Algorithm wiki](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
+### Least Common Multiple (LCM):
 
-    
+The implementation of the LCM algorithm using the Euclidean GCD algorithm. 
